@@ -1,3 +1,3 @@
 #Demo
 
-Learing Github
+Learning Github
